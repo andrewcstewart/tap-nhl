@@ -10,7 +10,7 @@ keywords = [
 license = "Apache 2.0"
 
 [tool.poetry.dependencies]
-python = "<3.9,>=3.8.12"
+python = "<3.9,>=3.8.10"
 requests = "^2.25.1"
 singer-sdk = "^0.4.1"
 pandas = "^1.4.0"
